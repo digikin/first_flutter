@@ -1,6 +1,6 @@
 # flutter_api
 
-A new Flutter application.
+A new Flutter application. To pull the serial number of the device for an API call later.
 
 ## Getting Started
 
